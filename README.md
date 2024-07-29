@@ -5,9 +5,11 @@ The website to be resized is to be placed into an iframe (see main_website.html)
 
 This tool acts as a wrapper interface that displays your resizable website and houses the resizing functionality.
 
+![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/first.gif)
+
 # Integration into your static web project
 
-1. Insert the contents of this repository (the 5 files excluding readme.md) into your project directory at the same level as the main entrypoint to your website project (e.g. index.html). 
+1. Insert the contents of this repository (the 5 files excluding readme.md & GIF) into your project directory at the same level as the main entrypoint to your website project (e.g. index.html). 
 2. Your resizable website goes into the iframe inside the following HTML document:
    `
    main_website.html
