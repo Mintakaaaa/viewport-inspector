@@ -163,7 +163,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
 
 /**
- * 
+ * Update the text on the toolbar that says how wide the iframe is.
  * @param {Float} viewportWidth Current width of iframe/resizable website
  */
 function updateWidthPixelsText(viewportWidth) {
