@@ -5,7 +5,7 @@ The website to be resized is to be placed into an iframe (see main_website.html)
 
 This tool acts as a wrapper interface that displays your resizable website and houses the resizing functionality.
 
-![me](https://github.com/Daisyliu6/Daisyliu6/blob/master/first.gif)
+![me](https://github.com/Mintakaaaa/viewport-inspector/blob/main/demo.gif)
 
 # Integration into your static web project
 
